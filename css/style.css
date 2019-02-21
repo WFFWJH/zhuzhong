@@ -1,0 +1,14 @@
+body{
+    background-image: url(../img/lizhi.jpg);
+    background-repeat: no-repeat;
+}
+
+.all{
+    margin: 100px 50px;
+    text-indent: 2em;
+}
+
+.end1,.end2,.end3{
+    text-indent: 0;
+    margin-left: 1300px;
+}
